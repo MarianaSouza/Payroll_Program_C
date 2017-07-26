@@ -1,5 +1,5 @@
 # Payroll_Program_C
-####Payroll Program with Struct in C
+### Payroll Program with Struct in C
 
 Simple program that calculates employee’s salaries considering their types.
 
